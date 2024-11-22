@@ -1,16 +1,22 @@
-## Hi there 👋
+# Merhaba, ben Ömer Gülçiçek 👋🏻 
+Yazılım mühendisiyim, Frontend Developer olarak çalışıyorum. React/NextJS ve CSS alanlarında uzmanım.
 
-<!--
-**omergulcicek/omergulcicek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Teknik yeteneklerim:
+### Frontend:
+* React, Next.js, CSS3, TypeScript, Tailwind CSS, Framer Motion gibi modern web teknolojileri
+### Araçlar:
+* Git, Figma
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Hakkımda:
+Gezmeyi, fotoğraf çekmeyi ve satranç oynamayı seviyorum.
+
+Hakkımda detaylı bilgi için [kişisel sitemi](https://omergulcicek.com/) ziyaret edebilirsiniz.
+
+---
+
+## 📫 Bana Ulaşın:
+- **E-posta:** iletisim@omergulcicek.com
+- **LinkedIn:** [@omergulcicek](https://www.linkedin.com/in/omergulcicek)
+- **Instagram:** [@omerilekesfet](https://instagram.com/omerilekesfet)
