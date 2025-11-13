@@ -1,4 +1,4 @@
-A passionate **frontend developer** based in **Sakarya, Turkey** 🇹🇷
+A passionate **frontend engineer** based in **Sakarya, Turkey** 🇹🇷
 
 I work with modern web technologies like **React**, **Next.js**, **TypeScript**, **TanStack Query**, and **TailwindCSS**, focusing on building scalable and performant interfaces. I enjoy contributing to open-source and writing clean code.
 
