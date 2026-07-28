@@ -1,5 +1,5 @@
-A passionate **frontend engineer** based in **Sakarya, Turkey** 🇹🇷
+Frontend Engineer based in Turkey 🇹🇷
 
-I work with modern web technologies like **React**, **Next.js**, **TypeScript**, **TanStack Query**, and **TailwindCSS**, focusing on building scalable and performant interfaces. I enjoy contributing to open-source and writing clean code.
+I focus on building scalable web interfaces, **frontend tooling**, **web quality**, and **AI-assisted software engineering**. Through [*ViraStack*](https://github.com/virastack), I maintain open-source projects and developer tools.
 
-You can check out some of my [*npm packages*](https://www.npmjs.com/~omergulcicek), visit my [*website*](https://omergulcicek.com), or connect on [*LinkedIn*](https://linkedin.com/in/omergulcicek).
+Outside of coding, I enjoy playing blitz chess and exploring cities on foot. You can read my [*blog*](https://www.omergulcicek.com/blog) or connect with me on [*LinkedIn*](https://www.linkedin.com/in/omergulcicek/).
