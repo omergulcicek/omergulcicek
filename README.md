@@ -1,5 +1,7 @@
-Frontend Engineer based in Turkey 🇹🇷
+Frontend Engineer based in Türkiye 🇹🇷
 
-I focus on building scalable web interfaces, **frontend tooling**, **web quality**, and **AI-assisted software engineering**. Through [*ViraStack*](https://github.com/virastack), I maintain open-source projects and developer tools.
+I build frontend architecture with React and Next.js. I'm the founder of [ViraStack](https://github.com/virastack), where I create open-source templates, packages and free guides for frontend developers.
 
-Outside of coding, I enjoy playing blitz chess and exploring cities on foot. You can read my [*blog*](https://www.omergulcicek.com/blog) or connect with me on [*LinkedIn*](https://www.linkedin.com/in/omergulcicek/).
+My coding rules live in [ViraStack AI](https://github.com/virastack/ai), and I work with AI under the same rules.
+
+Read my [blog](https://omergulcicek.com/blog) or reach me on [LinkedIn](https://www.linkedin.com/in/omergulcicek/) and [X](https://x.com/omergulcicek).
